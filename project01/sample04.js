@@ -1,5 +1,10 @@
 "use strict";
-var a = 10;
-var b = 5;
-var ans = a * b;
+let a = 10;
+let b = 5;
+a = 20;
+let s = 'abc';
+let n = 123;
+let bb = true;
+let an = true;
+let ans = a + b;
 console.log(ans);
